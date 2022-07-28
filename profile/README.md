@@ -5,8 +5,8 @@ smartness makes programming limitless
 
 Learn Coding and programming for free
 
-# Where can I visit it?
+# Visit
 https://codingforfree.com/
 
-#Contact
+# Contact
 [E-mail](Info@codingforfree.com)
