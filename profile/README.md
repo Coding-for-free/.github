@@ -1,4 +1,4 @@
-#Coding for free
+# COding for free
 smartness makes programming limitless
 
 ![Coding for free presentation - Copy](https://user-images.githubusercontent.com/94104126/181477232-04a55844-ea55-495e-a8e9-df3f540addae.png)
@@ -10,3 +10,6 @@ https://codingforfree.com/
 
 # Contact
 [E-mail](Info@codingforfree.com)
+
+
+Start learning now cos, Smartness is what makes programming limitless
