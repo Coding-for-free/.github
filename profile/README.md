@@ -10,7 +10,7 @@ https://codingforfree.com/
 
 # Contact
 - [E-mail](Info@codingforfree.com)
-- [YouTube](https://www.youtube.com/channel/UCBJ09tW7meLCYxp8XvahRuw)(error will be solved very soon)
+
 - [Coding for free](https://codingforfree.com/)
 
 Start learning now cos, Smartness is what makes programming limitless
