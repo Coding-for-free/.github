@@ -1,7 +1,8 @@
 # Coding for free
 smartness makes programming limitless
 
-![Coding for free presentation - Copy](https://user-images.githubusercontent.com/94104126/181477232-04a55844-ea55-495e-a8e9-df3f540addae.png)
+![NEW LOGO BEST](https://user-images.githubusercontent.com/94104126/183973038-dcb05d3c-883c-45c9-ae99-307f6c505f85.png)
+
 
 Learn Coding and programming for free
 
