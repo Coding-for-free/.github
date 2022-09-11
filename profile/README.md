@@ -11,7 +11,8 @@ https://codingforfree.com/
 
 # Contact
 - [E-mail](Info@codingforfree.com)
-
 - [Coding for free](https://codingforfree.com/)
 
-Start learning now cos, Smartness is what makes programming limitless
+Start learning now because, Smartness is what makes programming limitless
+
+@Travinth
